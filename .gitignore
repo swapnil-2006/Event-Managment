@@ -1,0 +1,13 @@
+# OS metadata & temporary files
+.DS_Store
+Thumbs.db
+*.log
+
+# Editor directories
+.vscode/
+.idea/
+
+# Local build or dependencies (if extended with node/bundlers)
+node_modules/
+dist/
+.cache/
